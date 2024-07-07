@@ -1,0 +1,6 @@
+@CircleCiTesting_HostAddress = http://localhost:5006
+
+GET {{CircleCiTesting_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
